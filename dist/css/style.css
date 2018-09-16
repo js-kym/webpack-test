@@ -1,0 +1,19 @@
+@font-face {
+    font-family: "NotoSansCJKjp";
+    font-style: normal;
+    font-weight: normal;
+    src: url(../font/NotoSansCJKjp-Regular.woff);
+}
+
+#test1 {
+	font-family: "NotoSansCJKjp";
+	color: red;
+}
+#test2 {
+	color: blue;
+}
+#test3 {
+	width: 192px;
+	height: 192px;
+	background-image: url(../img/reminder.png)
+}
